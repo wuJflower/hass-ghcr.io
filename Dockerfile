@@ -1,1 +1,1 @@
-FROM  ghcr.io/home-assistant/home-assistant:2022.2
+FROM  ghcr.io/home-assistant/home-assistant:stable
